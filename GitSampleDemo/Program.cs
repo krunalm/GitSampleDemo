@@ -17,6 +17,10 @@ namespace GitSampleDemo
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            // commented in program.cs by KM.
+
+
         }
     }
 }
